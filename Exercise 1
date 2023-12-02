@@ -1,0 +1,6 @@
+number 1 = 20
+number 2 = 30
+if (number*number)<= 1000:
+    print (number 1*number 2)
+else:
+    print(number 1+number 2)
